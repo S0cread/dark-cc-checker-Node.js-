@@ -1,0 +1,61 @@
+[
+  {
+    "id": "1",
+    "name": "sevval",
+    "email": "admin@darkcheck.co",
+    "password": "$2a$10$kZ3lErJJuVP4yUom9dNuueRWPYnXYdEiJhhDUpV6LZxVRwwWIjH56",
+    "role": "super_admin",
+    "balance": 0,
+    "membership": "free",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "permissions": "full",
+    "avatar": "/uploads/avatars/1.jpg"
+  },
+  {
+    "id": "d85369d1-6a63-45b7-9f55-11d65a26a2e7",
+    "name": "yarasa404",
+    "email": "yarasa@gmail.com",
+    "password": "$2a$10$xOI8yf9pfjKo.oFV7rIh5uhMBGDBf4ik0lmMkudM8j1AHdk0kmrNC",
+    "role": "super_admin",
+    "balance": 0,
+    "membership": "free",
+    "permissions": "full",
+    "createdAt": "2026-06-19T14:42:20.838Z",
+    "avatar": "/uploads/avatars/d85369d1-6a63-45b7-9f55-11d65a26a2e7.jpg"
+  },
+  {
+    "id": "0d4ce16c-f3ba-47ff-b490-cfd4bbd34aa4",
+    "name": "yarasa1337",
+    "email": "yarasa1337@gmail.com",
+    "password": "$2a$10$lbsqowEjx8wF./mkUTpXdOkw0ZJtSzA7ObJD3BgTwD0NS3jgkJ2ca",
+    "role": "super_admin",
+    "balance": 0,
+    "membership": "enterprise",
+    "permissions": "full",
+    "createdAt": "2026-06-20T10:38:53.357Z",
+    "avatar": "/uploads/avatars/0d4ce16c-f3ba-47ff-b490-cfd4bbd34aa4.jpg"
+  },
+  {
+    "id": "d86ab62e-23e5-4370-bbeb-47ef6dbc74ac",
+    "name": "socread",
+    "email": "socread1337@gmail.com",
+    "password": "$2a$10$i5s/0TvI.4oZfMUyReUKCOdGttXi2x3t6eK4mrUucbF559cs9ItLW",
+    "role": "super_admin",
+    "balance": 0,
+    "membership": "free",
+    "permissions": "checker",
+    "createdAt": "2026-06-22T14:30:48.797Z",
+    "avatar": "/uploads/avatars/d86ab62e-23e5-4370-bbeb-47ef6dbc74ac.jpg"
+  },
+  {
+    "id": "16a61945-8bdb-4049-b580-e34ce1750afd",
+    "name": "socread404",
+    "email": "socread404@gmail.com",
+    "password": "$2a$10$yMMRvrTaYuXPvXBVMAbRfedUd7oMGk3fiTWgDg3EjqVx5JEHoUlX.",
+    "role": "user",
+    "balance": 0,
+    "membership": "free",
+    "permissions": "none",
+    "createdAt": "2026-06-25T23:39:18.407Z"
+  }
+]

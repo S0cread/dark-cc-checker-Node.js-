@@ -1,0 +1,80 @@
+[
+  {
+    "id": "685c5d24-c2c3-4cbd-85a4-4fb3724db7e7",
+    "userId": "d1ecc16b-92d4-4031-b7d9-970616248897",
+    "userName": "okkes",
+    "userEmail": "asdldslaldsa@gmail.com",
+    "category": "odeme",
+    "subject": "okkesin anası hakkında son durum",
+    "message": "nolacak bu adamın hali",
+    "status": "closed",
+    "reply": "qewqwe",
+    "createdAt": "2026-03-08T14:01:34.406Z",
+    "updatedAt": "2026-03-08T14:20:05.018Z"
+  },
+  {
+    "id": "e3b486d0-d82f-47a9-8b8b-1e021b14824c",
+    "userId": "d1ecc16b-92d4-4031-b7d9-970616248897",
+    "userName": "okkes",
+    "userEmail": "asdldslaldsa@gmail.com",
+    "category": "genel",
+    "subject": "sofiinin iliskisi",
+    "message": "nolcak bu ask acaba...",
+    "status": "closed",
+    "reply": null,
+    "createdAt": "2026-03-08T14:02:50.563Z",
+    "updatedAt": "2026-03-08T14:03:47.537Z"
+  },
+  {
+    "id": "206aa86a-751c-4cc2-91b3-593c4877348e",
+    "userId": "d1ecc16b-92d4-4031-b7d9-970616248897",
+    "userName": "okkes",
+    "userEmail": "asdldslaldsa@gmail.com",
+    "category": "hesap",
+    "subject": "selam",
+    "message": "selamselamselamselamselamselam",
+    "status": "closed",
+    "reply": "asdewqewqwqeweq",
+    "createdAt": "2026-03-08T14:05:25.815Z",
+    "updatedAt": "2026-03-08T14:20:08.406Z"
+  },
+  {
+    "id": "3f974481-e847-4ada-b3ad-1f5bed8b4737",
+    "userId": "d1ecc16b-92d4-4031-b7d9-970616248897",
+    "userName": "okkes",
+    "userEmail": "asdldslaldsa@gmail.com",
+    "category": "genel",
+    "subject": "selam",
+    "message": "apiler 23:59 a kadar gelmezse kendimi patlatacağım",
+    "status": "closed",
+    "reply": "baby loco",
+    "createdAt": "2026-03-08T14:27:58.165Z",
+    "updatedAt": "2026-03-08T14:29:38.364Z"
+  },
+  {
+    "id": "279b4454-90fa-44bc-b012-02e40dc91fdf",
+    "userId": "d1ecc16b-92d4-4031-b7d9-970616248897",
+    "userName": "okkes",
+    "userEmail": "asdldslaldsa@gmail.com",
+    "category": "genel",
+    "subject": "deneme",
+    "message": "denemedenemedenemedenemedeneme",
+    "status": "closed",
+    "reply": "selamselamselam\n",
+    "createdAt": "2026-03-08T15:35:16.443Z",
+    "updatedAt": "2026-06-21T12:33:09.650Z"
+  },
+  {
+    "id": "df6824a1-c0f1-4594-a633-76c67dd83748",
+    "userId": "d85369d1-6a63-45b7-9f55-11d65a26a2e7",
+    "userName": "yarasa404",
+    "userEmail": "yarasa@gmail.com",
+    "category": "genel",
+    "subject": "satrhthrthrh",
+    "message": "asfdhtrhrthhtrhrthrthrthrhrthrthtttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt",
+    "status": "open",
+    "reply": null,
+    "createdAt": "2026-06-19T15:37:14.095Z",
+    "updatedAt": "2026-06-19T15:37:14.096Z"
+  }
+]

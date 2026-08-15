@@ -1,0 +1,143 @@
+"use client";
+
+import { motion } from "motion/react";
+import Link from "next/link";
+import { useRouter } from "next/navigation";
+import { useState } from "react";
+import { SearchIcon } from "@/components/icons";
+
+export default function KayitPage() {
+  const router = useRouter();
+  const [name, setName] = useState("");
+  const [email, setEmail] = useState("");
+  const [password, setPassword] = useState("");
+  const [error, setError] = useState("");
+  const [loading, setLoading] = useState(false);
+
+  async function handleSubmit(e: React.FormEvent) {
+    e.preventDefault();
+    setError("");
+    setLoading(true);
+    try {
+      // API boş — kayıt endpoint'i eklenecek. Şimdilik demo için giriş sayfasına yönlendir.
+      await new Promise((r) => setTimeout(r, 800));
+      router.push("/login?kayit=ok");
+      router.refresh();
+    } catch {
+      setError("Kayıt sırasında bir hata oluştu.");
+    } finally {
+      setLoading(false);
+    }
+  }
+
+  return (
+    <div className="flex min-h-screen items-center justify-center bg-background px-4 py-12">
+      <motion.div
+        className="w-full max-w-md"
+        initial={{ opacity: 0, y: 20 }}
+        animate={{ opacity: 1, y: 0 }}
+        transition={{ duration: 0.4 }}
+      >
+        <div className="mb-8 flex justify-center">
+          <Link
+            href="/"
+            className="flex items-center gap-2 text-xl font-bold text-accent"
+          >
+            <SearchIcon className="h-7 w-7" />
+            darkcheck.co
+          </Link>
+        </div>
+
+        <div className="rounded-2xl border border-border bg-card p-8 shadow-xl">
+          <h1 className="text-2xl font-bold text-foreground">Kayıt Ol</h1>
+          <p className="mt-1 text-sm text-muted-foreground">
+            Ücretsiz hesap oluşturun ve Checker çözümlerine erişin.
+          </p>
+
+          <form onSubmit={handleSubmit} className="mt-6 space-y-4">
+            {error && (
+              <motion.p
+                initial={{ opacity: 0 }}
+                animate={{ opacity: 1 }}
+                className="rounded-lg bg-red-500/10 px-3 py-2 text-sm text-red-400"
+              >
+                {error}
+              </motion.p>
+            )}
+            <div>
+              <label
+                htmlFor="name"
+                className="block text-sm font-medium text-foreground"
+              >
+                Kullanıcı adı
+              </label>
+              <input
+                id="name"
+                name="name"
+                type="text"
+                value={name}
+                onChange={(e) => setName(e.target.value)}
+                required
+                className="mt-1.5 w-full rounded-lg border border-border bg-muted/30 px-4 py-3 text-foreground placeholder:text-muted-foreground focus:border-accent focus:outline-none focus:ring-2 focus:ring-accent/20"
+                placeholder="kullanici_adi"
+              />
+            </div>
+            <div>
+              <label
+                htmlFor="email"
+                className="block text-sm font-medium text-foreground"
+              >
+                E-posta
+              </label>
+              <input
+                id="email"
+                name="email"
+                type="email"
+                autoComplete="email"
+                value={email}
+                onChange={(e) => setEmail(e.target.value)}
+                required
+                className="mt-1.5 w-full rounded-lg border border-border bg-muted/30 px-4 py-3 text-foreground placeholder:text-muted-foreground focus:border-accent focus:outline-none focus:ring-2 focus:ring-accent/20"
+                placeholder="ornek@email.com"
+              />
+            </div>
+            <div>
+              <label
+                htmlFor="password"
+                className="block text-sm font-medium text-foreground"
+              >
+                Şifre
+              </label>
+              <input
+                id="password"
+                name="password"
+                type="password"
+                autoComplete="new-password"
+                value={password}
+                onChange={(e) => setPassword(e.target.value)}
+                required
+                minLength={6}
+                className="mt-1.5 w-full rounded-lg border border-border bg-muted/30 px-4 py-3 text-foreground placeholder:text-muted-foreground focus:border-accent focus:outline-none focus:ring-2 focus:ring-accent/20"
+                placeholder="En az 6 karakter"
+              />
+            </div>
+            <button
+              type="submit"
+              disabled={loading}
+              className="w-full rounded-lg bg-accent py-3 font-medium text-accent-foreground transition-opacity hover:opacity-90 disabled:opacity-50"
+            >
+              {loading ? "Kayıt yapılıyor…" : "Kayıt Ol"}
+            </button>
+          </form>
+
+          <p className="mt-6 text-center text-sm text-muted-foreground">
+            Zaten hesabınız var mı?{" "}
+            <Link href="/login" className="font-medium text-accent hover:underline">
+              Giriş yapın
+            </Link>
+          </p>
+        </div>
+      </motion.div>
+    </div>
+  );
+}

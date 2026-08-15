@@ -1,0 +1,51 @@
+[
+  {
+    "id": "1782141467685",
+    "type": "card_check",
+    "message": "Kart kontrol edildi (socread)",
+    "timestamp": "2026-06-22T15:17:47.685Z",
+    "userId": "d86ab62e-23e5-4370-bbeb-47ef6dbc74ac"
+  },
+  {
+    "id": "1782141467694",
+    "type": "card_dead",
+    "message": "DEAD/DECLINED kart (socread)",
+    "timestamp": "2026-06-22T15:17:47.695Z",
+    "userId": "d86ab62e-23e5-4370-bbeb-47ef6dbc74ac"
+  },
+  {
+    "id": "1782142088141",
+    "type": "card_check",
+    "message": "Kart kontrol edildi (socread)",
+    "timestamp": "2026-06-22T15:28:08.141Z",
+    "userId": "d86ab62e-23e5-4370-bbeb-47ef6dbc74ac"
+  },
+  {
+    "id": "1782142088142",
+    "type": "card_dead",
+    "message": "DEAD/DECLINED kart (socread)",
+    "timestamp": "2026-06-22T15:28:08.142Z",
+    "userId": "d86ab62e-23e5-4370-bbeb-47ef6dbc74ac"
+  },
+  {
+    "id": "1782142666889",
+    "type": "bin_check",
+    "message": "BIN sorgulandı (socread): 413226",
+    "timestamp": "2026-06-22T15:37:46.889Z",
+    "userId": "d86ab62e-23e5-4370-bbeb-47ef6dbc74ac"
+  },
+  {
+    "id": "1782142675953",
+    "type": "bin_check",
+    "message": "BIN sorgulandı (socread): 444676",
+    "timestamp": "2026-06-22T15:37:55.953Z",
+    "userId": "d86ab62e-23e5-4370-bbeb-47ef6dbc74ac"
+  },
+  {
+    "id": "1782430758408",
+    "type": "user_register",
+    "message": "Yeni kullanıcı kaydı: socread404",
+    "timestamp": "2026-06-25T23:39:18.408Z",
+    "userId": "16a61945-8bdb-4049-b580-e34ce1750afd"
+  }
+]

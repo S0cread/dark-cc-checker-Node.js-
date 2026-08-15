@@ -1,0 +1,3258 @@
+{
+  "400684": {
+    "bank": "ING BANK A.Ş.",
+    "bankCode": "99",
+    "type": "VISA",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "402275": {
+    "bank": "ASYA KATILIM BANKASI A.Ş.",
+    "bankCode": "208",
+    "type": "VISA",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "402276": {
+    "bank": "ASYA KATILIM BANKASI A.Ş.",
+    "bankCode": "208",
+    "type": "VISA",
+    "subType": "GOLD",
+    "virtual": false,
+    "prepaid": false
+  },
+  "402277": {
+    "bank": "FİNANS BANK A.Ş.",
+    "bankCode": "111",
+    "type": "VISA",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "402278": {
+    "bank": "FİNANS BANK A.Ş.",
+    "bankCode": "111",
+    "type": "VISA",
+    "subType": "GOLD",
+    "virtual": false,
+    "prepaid": false
+  },
+  "402280": {
+    "bank": "ASYA KATILIM BANKASI A.Ş.",
+    "bankCode": "208",
+    "type": "VISA",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "402458": {
+    "bank": "TÜRK EKONOMİ BANKASI A.Ş.",
+    "bankCode": "32",
+    "type": "VISA",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "402459": {
+    "bank": "TÜRK EKONOMİ BANKASI A.Ş.",
+    "bankCode": "32",
+    "type": "VISA",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "402563": {
+    "bank": "FİNANS BANK A.Ş.",
+    "bankCode": "111",
+    "type": "VISA",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "402589": {
+    "bank": "KUVEYT TÜRK KATILIM BANKASI A.Ş.",
+    "bankCode": "205",
+    "type": "VISA",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "402590": {
+    "bank": "KUVEYT TÜRK KATILIM BANKASI A.Ş.",
+    "bankCode": "205",
+    "type": "VISA",
+    "subType": "GOLD",
+    "virtual": false,
+    "prepaid": false
+  },
+  "402592": {
+    "bank": "KUVEYT TÜRK KATILIM BANKASI A.Ş.",
+    "bankCode": "205",
+    "type": "VISA",
+    "subType": "BUSINESS",
+    "virtual": false,
+    "prepaid": false
+  },
+  "402940": {
+    "bank": "T. VAKIFLAR BANKASI T.A.O.",
+    "bankCode": "15",
+    "type": "VISA",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "403082": {
+    "bank": "FİNANS BANK A.Ş.",
+    "bankCode": "111",
+    "type": "VISA",
+    "subType": "BUSINESS",
+    "virtual": false,
+    "prepaid": false
+  },
+  "403134": {
+    "bank": "DENİZBANK A.Ş.",
+    "bankCode": "134",
+    "type": "VISA",
+    "subType": "BUSINESS",
+    "virtual": false,
+    "prepaid": false
+  },
+  "403280": {
+    "bank": "T. GARANTİ BANKASI A.Ş.",
+    "bankCode": "62",
+    "type": "VISA",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "403360": {
+    "bank": "KUVEYT TÜRK KATILIM BANKASI A.Ş.",
+    "bankCode": "205",
+    "type": "VISA",
+    "subType": "PLATINUM",
+    "virtual": false,
+    "prepaid": false
+  },
+  "403666": {
+    "bank": "T. GARANTİ BANKASI A.Ş.",
+    "bankCode": "62",
+    "type": "VISA",
+    "subType": "BUSINESS",
+    "virtual": false,
+    "prepaid": false
+  },
+  "403810": {
+    "bank": "KUVEYT TÜRK KATILIM BANKASI A.Ş.",
+    "bankCode": "205",
+    "type": "VISA",
+    "subType": "BUSINESS",
+    "virtual": false,
+    "prepaid": false
+  },
+  "403836": {
+    "bank": "ŞEKERBANK T.A.Ş.",
+    "bankCode": "59",
+    "type": "VISA",
+    "subType": "BUSINESS",
+    "virtual": false,
+    "prepaid": false
+  },
+  "404308": {
+    "bank": "T. GARANTİ BANKASI A.Ş.",
+    "bankCode": "62",
+    "type": "VISA",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "404809": {
+    "bank": "YAPI ve KREDİ BANKASI A.Ş.",
+    "bankCode": "67",
+    "type": "VISA",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "404952": {
+    "bank": "TÜRKİYE FİNANS KATILIM BANKASI A.Ş.",
+    "bankCode": "206",
+    "type": "VISA",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "405913": {
+    "bank": "HSBC BANK A.Ş.",
+    "bankCode": "123",
+    "type": "VISA",
+    "subType": "GOLD",
+    "virtual": false,
+    "prepaid": false
+  },
+  "405917": {
+    "bank": "HSBC BANK A.Ş.",
+    "bankCode": "123",
+    "type": "VISA",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "405918": {
+    "bank": "HSBC BANK A.Ş.",
+    "bankCode": "123",
+    "type": "VISA",
+    "subType": "GOLD",
+    "virtual": false,
+    "prepaid": false
+  },
+  "406015": {
+    "bank": "TÜRK EKONOMİ BANKASI A.Ş.",
+    "bankCode": "32",
+    "type": "VISA",
+    "subType": "GOLD",
+    "virtual": false,
+    "prepaid": false
+  },
+  "408579": {
+    "bank": "ING BANK A.Ş.",
+    "bankCode": "99",
+    "type": "VISA",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "408625": {
+    "bank": "DENİZBANK A.Ş.",
+    "bankCode": "134",
+    "type": "VISA",
+    "subType": "PLATINUM",
+    "virtual": false,
+    "prepaid": false
+  },
+  "409070": {
+    "bank": "DENİZBANK A.Ş.",
+    "bankCode": "134",
+    "type": "VISA",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "409071": {
+    "bank": "HSBC BANK A.Ş.",
+    "bankCode": "123",
+    "type": "VISA",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "409084": {
+    "bank": "T. VAKIFLAR BANKASI T.A.O.",
+    "bankCode": "15",
+    "type": "VISA",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "409364": {
+    "bank": "FİNANS BANK A.Ş.",
+    "bankCode": "111",
+    "type": "VISA",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "409622": {
+    "bank": "ŞEKERBANK T.A.Ş.",
+    "bankCode": "59",
+    "type": "VISA",
+    "subType": "Acquiring",
+    "virtual": false,
+    "prepaid": false
+  },
+  "410147": {
+    "bank": "FİNANS BANK A.Ş.",
+    "bankCode": "111",
+    "type": "VISA",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "410555": {
+    "bank": "KUVEYT TÜRK KATILIM BANKASI A.Ş.",
+    "bankCode": "205",
+    "type": "VISA",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "410556": {
+    "bank": "KUVEYT TÜRK KATILIM BANKASI A.Ş.",
+    "bankCode": "205",
+    "type": "VISA",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "411156": {
+    "bank": "ŞEKERBANK T.A.Ş.",
+    "bankCode": "59",
+    "type": "VISA",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "411157": {
+    "bank": "ŞEKERBANK T.A.Ş.",
+    "bankCode": "59",
+    "type": "VISA",
+    "subType": "GOLD",
+    "virtual": false,
+    "prepaid": false
+  },
+  "411158": {
+    "bank": "ŞEKERBANK T.A.Ş.",
+    "bankCode": "59",
+    "type": "VISA",
+    "subType": "PLATINUM",
+    "virtual": false,
+    "prepaid": false
+  },
+  "411159": {
+    "bank": "ŞEKERBANK T.A.Ş.",
+    "bankCode": "59",
+    "type": "VISA",
+    "subType": "BUSINESS",
+    "virtual": false,
+    "prepaid": false
+  },
+  "411160": {
+    "bank": "ŞEKERBANK T.A.Ş.",
+    "bankCode": "59",
+    "type": "VISA",
+    "subType": "Acquiring",
+    "virtual": false,
+    "prepaid": false
+  },
+  "411685": {
+    "bank": "TÜRKİYE FİNANS KATILIM BANKASI A.Ş.",
+    "bankCode": "206",
+    "type": "VISA",
+    "subType": "BUSINESS",
+    "virtual": false,
+    "prepaid": false
+  },
+  "411724": {
+    "bank": "T. VAKIFLAR BANKASI T.A.O.",
+    "bankCode": "15",
+    "type": "VISA",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "411924": {
+    "bank": "DENİZBANK A.Ş.",
+    "bankCode": "134",
+    "type": "VISA",
+    "subType": "BUSINESS",
+    "virtual": false,
+    "prepaid": false
+  },
+  "411942": {
+    "bank": "T. VAKIFLAR BANKASI T.A.O.",
+    "bankCode": "15",
+    "type": "VISA",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "411943": {
+    "bank": "T. VAKIFLAR BANKASI T.A.O.",
+    "bankCode": "15",
+    "type": "VISA",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "411944": {
+    "bank": "T. VAKIFLAR BANKASI T.A.O.",
+    "bankCode": "15",
+    "type": "VISA",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "411979": {
+    "bank": "T. VAKIFLAR BANKASI T.A.O.",
+    "bankCode": "15",
+    "type": "VISA",
+    "subType": "PLATINUM",
+    "virtual": false,
+    "prepaid": false
+  },
+  "413226": {
+    "bank": "T.C. ZİRAAT BANKASI A.Ş.",
+    "bankCode": "10",
+    "type": "VISA",
+    "subType": "PLATINUM",
+    "virtual": false,
+    "prepaid": false
+  },
+  "413252": {
+    "bank": "AKBANK T.A.Ş.",
+    "bankCode": "46",
+    "type": "VISA",
+    "subType": "PLATINUM",
+    "virtual": false,
+    "prepaid": false
+  },
+  "413583": {
+    "bank": "FİNANS BANK A.Ş.",
+    "bankCode": "111",
+    "type": "VISA",
+    "subType": "GOLD",
+    "virtual": false,
+    "prepaid": false
+  },
+  "413836": {
+    "bank": "T. GARANTİ BANKASI A.Ş.",
+    "bankCode": "62",
+    "type": "VISA",
+    "subType": "PLATINUM",
+    "virtual": false,
+    "prepaid": false
+  },
+  "414070": {
+    "bank": "ING BANK A.Ş.",
+    "bankCode": "99",
+    "type": "VISA",
+    "subType": "PLATINUM",
+    "virtual": false,
+    "prepaid": false
+  },
+  "414388": {
+    "bank": "FİNANS BANK A.Ş.",
+    "bankCode": "111",
+    "type": "VISA",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "415514": {
+    "bank": "T. HALK BANKASI A.Ş.",
+    "bankCode": "12",
+    "type": "VISA",
+    "subType": "PLATINUM",
+    "virtual": false,
+    "prepaid": false
+  },
+  "415565": {
+    "bank": "FİNANS BANK A.Ş.",
+    "bankCode": "111",
+    "type": "VISA",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "415792": {
+    "bank": "T. VAKIFLAR BANKASI T.A.O.",
+    "bankCode": "15",
+    "type": "VISA",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "416757": {
+    "bank": "T. VAKIFLAR BANKASI T.A.O.",
+    "bankCode": "15",
+    "type": "VISA",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "416987": {
+    "bank": "ASYA KATILIM BANKASI A.Ş.",
+    "bankCode": "208",
+    "type": "VISA",
+    "subType": "BUSINESS",
+    "virtual": false,
+    "prepaid": false
+  },
+  "417715": {
+    "bank": "ALBARAKA TÜRK KATILIM BANKASI A.Ş.",
+    "bankCode": "203",
+    "type": "VISA",
+    "subType": "BUSINESS",
+    "virtual": false,
+    "prepaid": false
+  },
+  "418342": {
+    "bank": "T. İŞ BANKASI A.Ş.",
+    "bankCode": "64",
+    "type": "VISA",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "418343": {
+    "bank": "T. İŞ BANKASI A.Ş.",
+    "bankCode": "64",
+    "type": "VISA",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "418344": {
+    "bank": "T. İŞ BANKASI A.Ş.",
+    "bankCode": "64",
+    "type": "VISA",
+    "subType": "GOLD",
+    "virtual": false,
+    "prepaid": false
+  },
+  "418345": {
+    "bank": "T. İŞ BANKASI A.Ş.",
+    "bankCode": "64",
+    "type": "VISA",
+    "subType": "GOLD",
+    "virtual": false,
+    "prepaid": false
+  },
+  "419389": {
+    "bank": "TURKISH BANK A.Ş.",
+    "bankCode": "96",
+    "type": "VISA",
+    "subType": "Acquiring",
+    "virtual": false,
+    "prepaid": false
+  },
+  "420322": {
+    "bank": "ING BANK A.Ş.",
+    "bankCode": "99",
+    "type": "VISA",
+    "subType": "GOLD",
+    "virtual": false,
+    "prepaid": false
+  },
+  "420323": {
+    "bank": "ING BANK A.Ş.",
+    "bankCode": "99",
+    "type": "VISA",
+    "subType": "GOLD",
+    "virtual": false,
+    "prepaid": false
+  },
+  "420324": {
+    "bank": "ING BANK A.Ş.",
+    "bankCode": "99",
+    "type": "VISA",
+    "subType": "PLATINUM",
+    "virtual": false,
+    "prepaid": false
+  },
+  "422376": {
+    "bank": "FİNANS BANK A.Ş.",
+    "bankCode": "111",
+    "type": "VISA",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "422629": {
+    "bank": "HSBC BANK A.Ş.",
+    "bankCode": "123",
+    "type": "VISA",
+    "subType": "GOLD",
+    "virtual": false,
+    "prepaid": false
+  },
+  "423277": {
+    "bank": "FİNANS BANK A.Ş.",
+    "bankCode": "111",
+    "type": "VISA",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "423398": {
+    "bank": "FİNANS BANK A.Ş.",
+    "bankCode": "111",
+    "type": "VISA",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "424360": {
+    "bank": "DENİZBANK A.Ş.",
+    "bankCode": "134",
+    "type": "VISA",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "424361": {
+    "bank": "DENİZBANK A.Ş.",
+    "bankCode": "134",
+    "type": "VISA",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "424407": {
+    "bank": "EUROBANK TEKFEN A.Ş.",
+    "bankCode": "125",
+    "type": "VISA",
+    "subType": "BUSINESS",
+    "virtual": false,
+    "prepaid": false
+  },
+  "424487": {
+    "bank": "KUVEYT TÜRK KATILIM BANKASI A.Ş.",
+    "bankCode": "205",
+    "type": "VISA",
+    "subType": "Acquiring",
+    "virtual": false,
+    "prepaid": false
+  },
+  "424909": {
+    "bank": "HSBC BANK A.Ş.",
+    "bankCode": "123",
+    "type": "VISA",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "425669": {
+    "bank": "AKBANK T.A.Ş.",
+    "bankCode": "46",
+    "type": "VISA",
+    "subType": "BUSINESS",
+    "virtual": false,
+    "prepaid": false
+  },
+  "425846": {
+    "bank": "ANADOLUBANK A.Ş.",
+    "bankCode": "135",
+    "type": "VISA",
+    "subType": "GOLD",
+    "virtual": false,
+    "prepaid": false
+  },
+  "425847": {
+    "bank": "ANADOLUBANK A.Ş.",
+    "bankCode": "135",
+    "type": "VISA",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "425848": {
+    "bank": "ANADOLUBANK A.Ş.",
+    "bankCode": "135",
+    "type": "VISA",
+    "subType": "BUSINESS",
+    "virtual": false,
+    "prepaid": false
+  },
+  "426391": {
+    "bank": "CITIBANK A.Ş.",
+    "bankCode": "92",
+    "type": "VISA",
+    "subType": "GOLD",
+    "virtual": false,
+    "prepaid": false
+  },
+  "426392": {
+    "bank": "CITIBANK A.Ş.",
+    "bankCode": "92",
+    "type": "VISA",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "426886": {
+    "bank": "T. GARANTİ BANKASI A.Ş.",
+    "bankCode": "62",
+    "type": "VISA",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "426887": {
+    "bank": "T. GARANTİ BANKASI A.Ş.",
+    "bankCode": "62",
+    "type": "VISA",
+    "subType": "GOLD",
+    "virtual": false,
+    "prepaid": false
+  },
+  "426888": {
+    "bank": "T. GARANTİ BANKASI A.Ş.",
+    "bankCode": "62",
+    "type": "VISA",
+    "subType": "PLATINUM",
+    "virtual": false,
+    "prepaid": false
+  },
+  "427308": {
+    "bank": "FORTIS BANK A.Ş.",
+    "bankCode": "71",
+    "type": "VISA",
+    "subType": " BUSINESS",
+    "virtual": false,
+    "prepaid": false
+  },
+  "427311": {
+    "bank": "FİNANS BANK A.Ş.",
+    "bankCode": "111",
+    "type": "VISA",
+    "subType": "BUSINESS",
+    "virtual": false,
+    "prepaid": false
+  },
+  "427314": {
+    "bank": "T. GARANTİ BANKASI A.Ş.",
+    "bankCode": "62",
+    "type": "VISA",
+    "subType": "BUSINESS",
+    "virtual": false,
+    "prepaid": false
+  },
+  "427315": {
+    "bank": "T. GARANTİ BANKASI A.Ş.",
+    "bankCode": "62",
+    "type": "VISA",
+    "subType": "BUSINESS",
+    "virtual": false,
+    "prepaid": false
+  },
+  "427707": {
+    "bank": "TÜRK EKONOMİ BANKASI A.Ş.",
+    "bankCode": "32",
+    "type": "VISA",
+    "subType": "BUSINESS",
+    "virtual": false,
+    "prepaid": false
+  },
+  "428220": {
+    "bank": "T. GARANTİ BANKASI A.Ş.",
+    "bankCode": "62",
+    "type": "VISA",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "428221": {
+    "bank": "T. GARANTİ BANKASI A.Ş.",
+    "bankCode": "62",
+    "type": "VISA",
+    "subType": "PLATINUM",
+    "virtual": false,
+    "prepaid": false
+  },
+  "428240": {
+    "bank": "HSBC BANK A.Ş.",
+    "bankCode": "123",
+    "type": "VISA",
+    "subType": "PLATINUM",
+    "virtual": false,
+    "prepaid": false
+  },
+  "428462": {
+    "bank": "TÜRKİYE FİNANS KATILIM BANKASI A.Ş.",
+    "bankCode": "206",
+    "type": "VISA",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "428945": {
+    "bank": "T. VAKIFLAR BANKASI T.A.O.",
+    "bankCode": "15",
+    "type": "VISA",
+    "subType": "BUSINESS",
+    "virtual": false,
+    "prepaid": false
+  },
+  "431024": {
+    "bank": "KUVEYT TÜRK KATILIM BANKASI A.Ş.",
+    "bankCode": "205",
+    "type": "VISA",
+    "subType": "BUSINESS",
+    "virtual": false,
+    "prepaid": false
+  },
+  "432071": {
+    "bank": "AKBANK T.A.Ş.",
+    "bankCode": "46",
+    "type": "VISA",
+    "subType": "GOLD",
+    "virtual": false,
+    "prepaid": false
+  },
+  "432072": {
+    "bank": "AKBANK T.A.Ş.",
+    "bankCode": "46",
+    "type": "VISA",
+    "subType": "PLATINUM",
+    "virtual": false,
+    "prepaid": false
+  },
+  "432154": {
+    "bank": "T. GARANTİ BANKASI A.Ş.",
+    "bankCode": "62",
+    "type": "VISA",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "432284": {
+    "bank": "ALBARAKA TÜRK KATILIM BANKASI A.Ş.",
+    "bankCode": "203",
+    "type": "VISA",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "432285": {
+    "bank": "ALBARAKA TÜRK KATILIM BANKASI A.Ş.",
+    "bankCode": "203",
+    "type": "VISA",
+    "subType": "GOLD",
+    "virtual": false,
+    "prepaid": false
+  },
+  "433383": {
+    "bank": "ŞEKERBANK T.A.Ş.",
+    "bankCode": "59",
+    "type": "VISA",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "433384": {
+    "bank": "ŞEKERBANK T.A.Ş.",
+    "bankCode": "59",
+    "type": "VISA",
+    "subType": "GOLD",
+    "virtual": false,
+    "prepaid": false
+  },
+  "435508": {
+    "bank": "AKBANK T.A.Ş.",
+    "bankCode": "46",
+    "type": "VISA",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "435509": {
+    "bank": "AKBANK T.A.Ş.",
+    "bankCode": "46",
+    "type": "VISA",
+    "subType": "GOLD",
+    "virtual": false,
+    "prepaid": false
+  },
+  "435627": {
+    "bank": "TÜRKİYE FİNANS KATILIM BANKASI A.Ş.",
+    "bankCode": "206",
+    "type": "VISA",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "435628": {
+    "bank": "TÜRKİYE FİNANS KATILIM BANKASI A.Ş.",
+    "bankCode": "206",
+    "type": "VISA",
+    "subType": "GOLD",
+    "virtual": false,
+    "prepaid": false
+  },
+  "435653": {
+    "bank": "FİNANS BANK A.Ş.",
+    "bankCode": "111",
+    "type": "VISA",
+    "subType": "PLATINUM",
+    "virtual": false,
+    "prepaid": false
+  },
+  "438040": {
+    "bank": "FORTIS BANK A.Ş.",
+    "bankCode": "71",
+    "type": "VISA",
+    "subType": "PLATINUM",
+    "virtual": false,
+    "prepaid": false
+  },
+  "440247": {
+    "bank": "TÜRK EKONOMİ BANKASI A.Ş.",
+    "bankCode": "32",
+    "type": "VISA",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "440273": {
+    "bank": "TÜRK EKONOMİ BANKASI A.Ş.",
+    "bankCode": "32",
+    "type": "VISA",
+    "subType": "GOLD",
+    "virtual": false,
+    "prepaid": false
+  },
+  "440293": {
+    "bank": "TÜRK EKONOMİ BANKASI A.Ş.",
+    "bankCode": "32",
+    "type": "VISA",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "440294": {
+    "bank": "TÜRK EKONOMİ BANKASI A.Ş.",
+    "bankCode": "32",
+    "type": "VISA",
+    "subType": "GOLD",
+    "virtual": false,
+    "prepaid": false
+  },
+  "441007": {
+    "bank": "FİNANS BANK A.Ş.",
+    "bankCode": "111",
+    "type": "VISA",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "441033": {
+    "bank": "ASYA KATILIM BANKASI A.Ş.",
+    "bankCode": "208",
+    "type": "VISA",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "441139": {
+    "bank": "DENİZBANK A.Ş.",
+    "bankCode": "134",
+    "type": "VISA",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "441341": {
+    "bank": "ANADOLUBANK A.Ş.",
+    "bankCode": "135",
+    "type": "VISA",
+    "subType": "PLATINUM",
+    "virtual": false,
+    "prepaid": false
+  },
+  "444029": {
+    "bank": "FİNANS BANK A.Ş.",
+    "bankCode": "111",
+    "type": "VISA",
+    "subType": "GOLD",
+    "virtual": false,
+    "prepaid": false
+  },
+  "444676": {
+    "bank": "T.C. ZİRAAT BANKASI A.Ş.",
+    "bankCode": "10",
+    "type": "VISA",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "444677": {
+    "bank": "T.C. ZİRAAT BANKASI A.Ş.",
+    "bankCode": "10",
+    "type": "VISA",
+    "subType": "GOLD",
+    "virtual": false,
+    "prepaid": false
+  },
+  "444678": {
+    "bank": "T.C. ZİRAAT BANKASI A.Ş.",
+    "bankCode": "10",
+    "type": "VISA",
+    "subType": "PLATINUM",
+    "virtual": false,
+    "prepaid": false
+  },
+  "446212": {
+    "bank": "YAPI ve KREDİ BANKASI A.Ş.",
+    "bankCode": "67",
+    "type": "VISA",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "448472": {
+    "bank": "T. GARANTİ BANKASI A.Ş.",
+    "bankCode": "62",
+    "type": "VISA",
+    "subType": "BUSINESS",
+    "virtual": false,
+    "prepaid": false
+  },
+  "450050": {
+    "bank": "CITIBANK A.Ş.",
+    "bankCode": "92",
+    "type": "VISA",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "450051": {
+    "bank": "CITIBANK A.Ş.",
+    "bankCode": "92",
+    "type": "VISA",
+    "subType": "GOLD",
+    "virtual": false,
+    "prepaid": false
+  },
+  "450634": {
+    "bank": "YAPI ve KREDİ BANKASI A.Ş.",
+    "bankCode": "67",
+    "type": "VISA",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "450803": {
+    "bank": "T. İŞ BANKASI A.Ş.",
+    "bankCode": "64",
+    "type": "VISA",
+    "subType": "BUSINESS",
+    "virtual": false,
+    "prepaid": false
+  },
+  "450918": {
+    "bank": "FORTIS BANK A.Ş.",
+    "bankCode": "71",
+    "type": "VISA",
+    "subType": " CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "453955": {
+    "bank": "T.C. ZİRAAT BANKASI A.Ş.",
+    "bankCode": "10",
+    "type": "VISA",
+    "subType": " CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "453956": {
+    "bank": "T.C. ZİRAAT BANKASI A.Ş.",
+    "bankCode": "10",
+    "type": "VISA",
+    "subType": " GOLD",
+    "virtual": false,
+    "prepaid": false
+  },
+  "454318": {
+    "bank": "T. İŞ BANKASI A.Ş.",
+    "bankCode": "64",
+    "type": "VISA",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "454358": {
+    "bank": "T. İŞ BANKASI A.Ş.",
+    "bankCode": "64",
+    "type": "VISA",
+    "subType": "GOLD",
+    "virtual": false,
+    "prepaid": false
+  },
+  "454359": {
+    "bank": "T. İŞ BANKASI A.Ş.",
+    "bankCode": "64",
+    "type": "VISA",
+    "subType": "GOLD",
+    "virtual": false,
+    "prepaid": false
+  },
+  "454360": {
+    "bank": "T. İŞ BANKASI A.Ş.",
+    "bankCode": "64",
+    "type": "VISA",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "454671": {
+    "bank": "T.C. ZİRAAT BANKASI A.Ş.",
+    "bankCode": "10",
+    "type": "VISA",
+    "subType": " CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "454672": {
+    "bank": "T.C. ZİRAAT BANKASI A.Ş.",
+    "bankCode": "10",
+    "type": "VISA",
+    "subType": " CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "454673": {
+    "bank": "T.C. ZİRAAT BANKASI A.Ş.",
+    "bankCode": "10",
+    "type": "VISA",
+    "subType": " BUSINESS",
+    "virtual": false,
+    "prepaid": false
+  },
+  "454674": {
+    "bank": "T.C. ZİRAAT BANKASI A.Ş.",
+    "bankCode": "10",
+    "type": "VISA",
+    "subType": " GOLD",
+    "virtual": false,
+    "prepaid": false
+  },
+  "454894": {
+    "bank": "T.C. ZİRAAT BANKASI A.Ş.",
+    "bankCode": "10",
+    "type": "VISA",
+    "subType": " CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "455359": {
+    "bank": "YAPI ve KREDİ BANKASI A.Ş.",
+    "bankCode": "67",
+    "type": "VISA",
+    "subType": "BUSINESS",
+    "virtual": false,
+    "prepaid": false
+  },
+  "455571": {
+    "bank": "ING BANK A.Ş.",
+    "bankCode": "99",
+    "type": "VISA",
+    "subType": "GOLD",
+    "virtual": false,
+    "prepaid": false
+  },
+  "455645": {
+    "bank": "FORTIS BANK A.Ş.",
+    "bankCode": "71",
+    "type": "VISA",
+    "subType": " GOLD",
+    "virtual": false,
+    "prepaid": false
+  },
+  "460345": {
+    "bank": "DENİZBANK A.Ş.",
+    "bankCode": "134",
+    "type": "VISA",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "460347": {
+    "bank": "DENİZBANK A.Ş.",
+    "bankCode": "134",
+    "type": "VISA",
+    "subType": "GOLD",
+    "virtual": false,
+    "prepaid": false
+  },
+  "461668": {
+    "bank": "T. GARANTİ BANKASI A.Ş.",
+    "bankCode": "62",
+    "type": "VISA",
+    "subType": "PLATINUM",
+    "virtual": false,
+    "prepaid": false
+  },
+  "462274": {
+    "bank": "T. GARANTİ BANKASI A.Ş.",
+    "bankCode": "62",
+    "type": "VISA",
+    "subType": "BUSINESS",
+    "virtual": false,
+    "prepaid": false
+  },
+  "467293": {
+    "bank": "T. GARANTİ BANKASI A.Ş.",
+    "bankCode": "62",
+    "type": "VISA",
+    "subType": "GOLD",
+    "virtual": false,
+    "prepaid": false
+  },
+  "467294": {
+    "bank": "T. GARANTİ BANKASI A.Ş.",
+    "bankCode": "62",
+    "type": "VISA",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "467295": {
+    "bank": "T. GARANTİ BANKASI A.Ş.",
+    "bankCode": "62",
+    "type": "VISA",
+    "subType": "BUSINESS",
+    "virtual": false,
+    "prepaid": false
+  },
+  "472914": {
+    "bank": "DENİZBANK A.Ş.",
+    "bankCode": "134",
+    "type": "VISA",
+    "subType": "BUSINESS",
+    "virtual": false,
+    "prepaid": false
+  },
+  "474151": {
+    "bank": "T. GARANTİ BANKASI A.Ş.",
+    "bankCode": "62",
+    "type": "VISA",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "477959": {
+    "bank": "YAPI ve KREDİ BANKASI A.Ş.",
+    "bankCode": "67",
+    "type": "VISA",
+    "subType": "Acquiring",
+    "virtual": false,
+    "prepaid": false
+  },
+  "479227": {
+    "bank": "TÜRK EKONOMİ BANKASI A.Ş.",
+    "bankCode": "32",
+    "type": "VISA",
+    "subType": "BUSINESS",
+    "virtual": false,
+    "prepaid": false
+  },
+  "479794": {
+    "bank": "YAPI ve KREDİ BANKASI A.Ş.",
+    "bankCode": "67",
+    "type": "VISA",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "479795": {
+    "bank": "YAPI ve KREDİ BANKASI A.Ş.",
+    "bankCode": "67",
+    "type": "VISA",
+    "subType": "GOLD",
+    "virtual": false,
+    "prepaid": false
+  },
+  "480296": {
+    "bank": "ING BANK A.Ş.",
+    "bankCode": "99",
+    "type": "VISA",
+    "subType": "BUSINESS",
+    "virtual": false,
+    "prepaid": false
+  },
+  "482489": {
+    "bank": "T. GARANTİ BANKASI A.Ş.",
+    "bankCode": "62",
+    "type": "VISA",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "482490": {
+    "bank": "T. GARANTİ BANKASI A.Ş.",
+    "bankCode": "62",
+    "type": "VISA",
+    "subType": "GOLD",
+    "virtual": false,
+    "prepaid": false
+  },
+  "482491": {
+    "bank": "T. GARANTİ BANKASI A.Ş.",
+    "bankCode": "62",
+    "type": "VISA",
+    "subType": "PLATINUM",
+    "virtual": false,
+    "prepaid": false
+  },
+  "483013": {
+    "bank": "EUROBANK TEKFEN A.Ş.",
+    "bankCode": "125",
+    "type": "VISA",
+    "subType": "Acquiring",
+    "virtual": false,
+    "prepaid": false
+  },
+  "486567": {
+    "bank": "T. GARANTİ BANKASI A.Ş.",
+    "bankCode": "62",
+    "type": "VISA",
+    "subType": "BUSINESS",
+    "virtual": false,
+    "prepaid": false
+  },
+  "487074": {
+    "bank": "T. GARANTİ BANKASI A.Ş.",
+    "bankCode": "62",
+    "type": "VISA",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "487075": {
+    "bank": "T. GARANTİ BANKASI A.Ş.",
+    "bankCode": "62",
+    "type": "VISA",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "489456": {
+    "bank": "DENİZBANK A.Ş.",
+    "bankCode": "134",
+    "type": "VISA",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "489478": {
+    "bank": "T. GARANTİ BANKASI A.Ş.",
+    "bankCode": "62",
+    "type": "VISA",
+    "subType": "GOLD",
+    "virtual": false,
+    "prepaid": false
+  },
+  "489494": {
+    "bank": "TÜRK EKONOMİ BANKASI A.Ş.",
+    "bankCode": "32",
+    "type": "VISA",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "489495": {
+    "bank": "TÜRK EKONOMİ BANKASI A.Ş.",
+    "bankCode": "32",
+    "type": "VISA",
+    "subType": "PLATINUM",
+    "virtual": false,
+    "prepaid": false
+  },
+  "489496": {
+    "bank": "TÜRK EKONOMİ BANKASI A.Ş.",
+    "bankCode": "32",
+    "type": "VISA",
+    "subType": "BUSINESS",
+    "virtual": false,
+    "prepaid": false
+  },
+  "490175": {
+    "bank": "T. GARANTİ BANKASI A.Ş.",
+    "bankCode": "62",
+    "type": "VISA",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "490805": {
+    "bank": "ING BANK A.Ş.",
+    "bankCode": "99",
+    "type": "VISA",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "490806": {
+    "bank": "ING BANK A.Ş.",
+    "bankCode": "99",
+    "type": "VISA",
+    "subType": "GOLD",
+    "virtual": false,
+    "prepaid": false
+  },
+  "490807": {
+    "bank": "ING BANK A.Ş.",
+    "bankCode": "99",
+    "type": "VISA",
+    "subType": "BUSINESS",
+    "virtual": false,
+    "prepaid": false
+  },
+  "491205": {
+    "bank": "YAPI ve KREDİ BANKASI A.Ş.",
+    "bankCode": "67",
+    "type": "VISA",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "491206": {
+    "bank": "YAPI ve KREDİ BANKASI A.Ş.",
+    "bankCode": "67",
+    "type": "VISA",
+    "subType": "PLATINUM",
+    "virtual": false,
+    "prepaid": false
+  },
+  "491373": {
+    "bank": "EUROBANK TEKFEN A.Ş.",
+    "bankCode": "125",
+    "type": "VISA",
+    "subType": "GOLD",
+    "virtual": false,
+    "prepaid": false
+  },
+  "491374": {
+    "bank": "EUROBANK TEKFEN A.Ş.",
+    "bankCode": "125",
+    "type": "VISA",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "492094": {
+    "bank": "T. HALK BANKASI A.Ş.",
+    "bankCode": "12",
+    "type": "VISA",
+    "subType": "GOLD",
+    "virtual": false,
+    "prepaid": false
+  },
+  "492095": {
+    "bank": "T. HALK BANKASI A.Ş.",
+    "bankCode": "12",
+    "type": "VISA",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "492128": {
+    "bank": "YAPI ve KREDİ BANKASI A.Ş.",
+    "bankCode": "67",
+    "type": "VISA",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "492130": {
+    "bank": "YAPI ve KREDİ BANKASI A.Ş.",
+    "bankCode": "67",
+    "type": "VISA",
+    "subType": "GOLD",
+    "virtual": false,
+    "prepaid": false
+  },
+  "492131": {
+    "bank": "YAPI ve KREDİ BANKASI A.Ş.",
+    "bankCode": "67",
+    "type": "VISA",
+    "subType": "GOLD",
+    "virtual": false,
+    "prepaid": false
+  },
+  "492186": {
+    "bank": "T. GARANTİ BANKASI A.Ş.",
+    "bankCode": "62",
+    "type": "VISA",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "492187": {
+    "bank": "T. GARANTİ BANKASI A.Ş.",
+    "bankCode": "62",
+    "type": "VISA",
+    "subType": "GOLD",
+    "virtual": false,
+    "prepaid": false
+  },
+  "492192": {
+    "bank": "PROVUS BİLİŞİM ",
+    "bankCode": "900",
+    "type": "VISA",
+    "subType": "Acquiring",
+    "virtual": false,
+    "prepaid": false
+  },
+  "492193": {
+    "bank": "T. GARANTİ BANKASI A.Ş.",
+    "bankCode": "62",
+    "type": "VISA",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "493837": {
+    "bank": "AKBANK T.A.Ş.",
+    "bankCode": "46",
+    "type": "VISA",
+    "subType": "Acquiring",
+    "virtual": false,
+    "prepaid": false
+  },
+  "493840": {
+    "bank": "T. VAKIFLAR BANKASI T.A.O.",
+    "bankCode": "15",
+    "type": "VISA",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "493841": {
+    "bank": "T. VAKIFLAR BANKASI T.A.O.",
+    "bankCode": "15",
+    "type": "VISA",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "493845": {
+    "bank": "T. GARANTİ BANKASI A.Ş.",
+    "bankCode": "62",
+    "type": "VISA",
+    "subType": "GOLD",
+    "virtual": false,
+    "prepaid": false
+  },
+  "493846": {
+    "bank": "T. VAKIFLAR BANKASI T.A.O.",
+    "bankCode": "15",
+    "type": "VISA",
+    "subType": "GOLD",
+    "virtual": false,
+    "prepaid": false
+  },
+  "494063": {
+    "bank": "ŞEKERBANK T.A.Ş.",
+    "bankCode": "59",
+    "type": "VISA",
+    "subType": "GOLD",
+    "virtual": false,
+    "prepaid": false
+  },
+  "494064": {
+    "bank": "ŞEKERBANK T.A.Ş.",
+    "bankCode": "59",
+    "type": "VISA",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "496019": {
+    "bank": "HSBC BANK A.Ş.",
+    "bankCode": "123",
+    "type": "VISA",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "498516": {
+    "bank": "EUROBANK TEKFEN A.Ş.",
+    "bankCode": "125",
+    "type": "VISA",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "498517": {
+    "bank": "EUROBANK TEKFEN A.Ş.",
+    "bankCode": "125",
+    "type": "VISA",
+    "subType": "GOLD",
+    "virtual": false,
+    "prepaid": false
+  },
+  "498518": {
+    "bank": "EUROBANK TEKFEN A.Ş.",
+    "bankCode": "125",
+    "type": "VISA",
+    "subType": "PLATINUM",
+    "virtual": false,
+    "prepaid": false
+  },
+  "498519": {
+    "bank": "EUROBANK TEKFEN A.Ş.",
+    "bankCode": "125",
+    "type": "VISA",
+    "subType": "PLATINUM",
+    "virtual": false,
+    "prepaid": false
+  },
+  "498520": {
+    "bank": "EUROBANK TEKFEN A.Ş.",
+    "bankCode": "125",
+    "type": "VISA",
+    "subType": "BUSINESS",
+    "virtual": false,
+    "prepaid": false
+  },
+  "498521": {
+    "bank": "EUROBANK TEKFEN A.Ş.",
+    "bankCode": "125",
+    "type": "VISA",
+    "subType": "BUSINESS",
+    "virtual": false,
+    "prepaid": false
+  },
+  "498852": {
+    "bank": "T. HALK BANKASI A.Ş.",
+    "bankCode": "12",
+    "type": "VISA",
+    "subType": "BUSINESS",
+    "virtual": false,
+    "prepaid": false
+  },
+  "499850": {
+    "bank": "FİNANS BANK A.Ş.",
+    "bankCode": "111",
+    "type": "VISA",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "499851": {
+    "bank": "FİNANS BANK A.Ş.",
+    "bankCode": "111",
+    "type": "VISA",
+    "subType": "PLATINUM",
+    "virtual": false,
+    "prepaid": false
+  },
+  "499852": {
+    "bank": "FİNANS BANK A.Ş.",
+    "bankCode": "111",
+    "type": "VISA",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "510005": {
+    "bank": "HSBC BANK A.Ş.",
+    "bankCode": "123",
+    "type": "MASTERCARD",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "510054": {
+    "bank": "YAPI ve KREDİ BANKASI A.Ş.",
+    "bankCode": "67",
+    "type": "MASTERCARD",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "510056": {
+    "bank": "T. HALK BANKASI A.Ş.",
+    "bankCode": "12",
+    "type": "MASTERCARD",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "510063": {
+    "bank": "DENİZBANK A.Ş.",
+    "bankCode": "134",
+    "type": "MASTERCARD",
+    "subType": "GOLD",
+    "virtual": false,
+    "prepaid": false
+  },
+  "510118": {
+    "bank": "DENİZBANK A.Ş.",
+    "bankCode": "134",
+    "type": "MASTERCARD",
+    "subType": "BUSINESS",
+    "virtual": false,
+    "prepaid": false
+  },
+  "510119": {
+    "bank": "DENİZBANK A.Ş.",
+    "bankCode": "134",
+    "type": "MASTERCARD",
+    "subType": "BUSINESS",
+    "virtual": false,
+    "prepaid": false
+  },
+  "510138": {
+    "bank": "TÜRK EKONOMİ BANKASI A.Ş.",
+    "bankCode": "32",
+    "type": "MASTERCARD",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "510139": {
+    "bank": "TÜRK EKONOMİ BANKASI A.Ş.",
+    "bankCode": "32",
+    "type": "MASTERCARD",
+    "subType": "GOLD",
+    "virtual": false,
+    "prepaid": false
+  },
+  "510151": {
+    "bank": "ING BANK A.Ş.",
+    "bankCode": "99",
+    "type": "MASTERCARD",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "510152": {
+    "bank": "T. İŞ BANKASI A.Ş.",
+    "bankCode": "64",
+    "type": "MASTERCARD",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "510221": {
+    "bank": "TÜRK EKONOMİ BANKASI A.Ş.",
+    "bankCode": "32",
+    "type": "MASTERCARD",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "511660": {
+    "bank": "KUVEYT TÜRK KATILIM BANKASI A.Ş.",
+    "bankCode": "205",
+    "type": "MASTERCARD",
+    "subType": "BUSINESS",
+    "virtual": false,
+    "prepaid": false
+  },
+  "512017": {
+    "bank": "DENİZBANK A.Ş.",
+    "bankCode": "134",
+    "type": "MASTERCARD",
+    "subType": "GOLD",
+    "virtual": false,
+    "prepaid": false
+  },
+  "512117": {
+    "bank": "DENİZBANK A.Ş.",
+    "bankCode": "134",
+    "type": "MASTERCARD",
+    "subType": "PLATINUM",
+    "virtual": false,
+    "prepaid": false
+  },
+  "512446": {
+    "bank": "PROVUS BİLİŞİM ",
+    "bankCode": "900",
+    "type": "MASTERCARD",
+    "subType": "GOLD",
+    "virtual": false,
+    "prepaid": false
+  },
+  "512595": {
+    "bank": "KUVEYT TÜRK KATILIM BANKASI A.Ş.",
+    "bankCode": "205",
+    "type": "MASTERCARD",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "512651": {
+    "bank": "HSBC BANK A.Ş.",
+    "bankCode": "123",
+    "type": "MASTERCARD",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "512753": {
+    "bank": "TÜRK EKONOMİ BANKASI A.Ş.",
+    "bankCode": "32",
+    "type": "MASTERCARD",
+    "subType": "GOLD",
+    "virtual": false,
+    "prepaid": false
+  },
+  "512754": {
+    "bank": "AKBANK T.A.Ş.",
+    "bankCode": "46",
+    "type": "MASTERCARD",
+    "subType": "GOLD",
+    "virtual": false,
+    "prepaid": false
+  },
+  "512803": {
+    "bank": "TÜRK EKONOMİ BANKASI A.Ş.",
+    "bankCode": "32",
+    "type": "MASTERCARD",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "514915": {
+    "bank": "T. GARANTİ BANKASI A.Ş.",
+    "bankCode": "62",
+    "type": "MASTERCARD",
+    "subType": "PLATINUM",
+    "virtual": false,
+    "prepaid": false
+  },
+  "514924": {
+    "bank": "DENİZBANK A.Ş.",
+    "bankCode": "134",
+    "type": "MASTERCARD",
+    "subType": "PLATINUM",
+    "virtual": false,
+    "prepaid": false
+  },
+  "515849": {
+    "bank": "ASYA KATILIM BANKASI A.Ş.",
+    "bankCode": "208",
+    "type": "MASTERCARD",
+    "subType": "GOLD",
+    "virtual": false,
+    "prepaid": false
+  },
+  "515865": {
+    "bank": "PROVUS BİLİŞİM ",
+    "bankCode": "900",
+    "type": "MASTERCARD",
+    "subType": "GOLD",
+    "virtual": false,
+    "prepaid": false
+  },
+  "518599": {
+    "bank": "TURKISH BANK A.Ş.",
+    "bankCode": "96",
+    "type": "MASTERCARD",
+    "subType": "GOLD",
+    "virtual": false,
+    "prepaid": false
+  },
+  "518679": {
+    "bank": "MILLENNIUM BANK A.Ş.",
+    "bankCode": "103",
+    "type": "MASTERCARD",
+    "subType": "PLATINUM",
+    "virtual": false,
+    "prepaid": false
+  },
+  "518896": {
+    "bank": "KUVEYT TÜRK KATILIM BANKASI A.Ş.",
+    "bankCode": "205",
+    "type": "MASTERCARD",
+    "subType": "GOLD",
+    "virtual": false,
+    "prepaid": false
+  },
+  "519324": {
+    "bank": "FİNANS BANK A.Ş.",
+    "bankCode": "111",
+    "type": "MASTERCARD",
+    "subType": "PLATINUM",
+    "virtual": false,
+    "prepaid": false
+  },
+  "519399": {
+    "bank": "HSBC BANK A.Ş.",
+    "bankCode": "123",
+    "type": "MASTERCARD",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "520017": {
+    "bank": "T. VAKIFLAR BANKASI T.A.O.",
+    "bankCode": "15",
+    "type": "MASTERCARD",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "520019": {
+    "bank": "DENİZBANK A.Ş.",
+    "bankCode": "134",
+    "type": "MASTERCARD",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "520097": {
+    "bank": "T. GARANTİ BANKASI A.Ş.",
+    "bankCode": "62",
+    "type": "MASTERCARD",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "520180": {
+    "bank": "KUVEYT TÜRK KATILIM BANKASI A.Ş.",
+    "bankCode": "205",
+    "type": "MASTERCARD",
+    "subType": "PLATINUM",
+    "virtual": false,
+    "prepaid": false
+  },
+  "520303": {
+    "bank": "DENİZBANK A.Ş.",
+    "bankCode": "134",
+    "type": "MASTERCARD",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "520909": {
+    "bank": "PROVUS BİLİŞİM ",
+    "bankCode": "900",
+    "type": "MASTERCARD",
+    "subType": "",
+    "virtual": false,
+    "prepaid": false
+  },
+  "520922": {
+    "bank": "T. GARANTİ BANKASI A.Ş.",
+    "bankCode": "62",
+    "type": "MASTERCARD",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "520932": {
+    "bank": "AKBANK T.A.Ş.",
+    "bankCode": "46",
+    "type": "MASTERCARD",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "520940": {
+    "bank": "T. GARANTİ BANKASI A.Ş.",
+    "bankCode": "62",
+    "type": "MASTERCARD",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "520988": {
+    "bank": "T. GARANTİ BANKASI A.Ş.",
+    "bankCode": "62",
+    "type": "MASTERCARD",
+    "subType": "GOLD",
+    "virtual": false,
+    "prepaid": false
+  },
+  "521022": {
+    "bank": "FİNANS BANK A.Ş.",
+    "bankCode": "111",
+    "type": "MASTERCARD",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "521045": {
+    "bank": "HSBC BANK A.Ş.",
+    "bankCode": "123",
+    "type": "MASTERCARD",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "521368": {
+    "bank": "T. GARANTİ BANKASI A.Ş.",
+    "bankCode": "62",
+    "type": "MASTERCARD",
+    "subType": "PLATINUM",
+    "virtual": false,
+    "prepaid": false
+  },
+  "521376": {
+    "bank": "CITIBANK A.Ş.",
+    "bankCode": "92",
+    "type": "MASTERCARD",
+    "subType": "PLATINUM",
+    "virtual": false,
+    "prepaid": false
+  },
+  "521378": {
+    "bank": "T. HALK BANKASI A.Ş.",
+    "bankCode": "12",
+    "type": "MASTERCARD",
+    "subType": "PLATINUM",
+    "virtual": false,
+    "prepaid": false
+  },
+  "521394": {
+    "bank": "ŞEKERBANK T.A.Ş.",
+    "bankCode": "59",
+    "type": "MASTERCARD",
+    "subType": "PLATINUM",
+    "virtual": false,
+    "prepaid": false
+  },
+  "521807": {
+    "bank": "AKBANK T.A.Ş.",
+    "bankCode": "46",
+    "type": "MASTERCARD",
+    "subType": "PLATINUM",
+    "virtual": false,
+    "prepaid": false
+  },
+  "521824": {
+    "bank": "T. GARANTİ BANKASI A.Ş.",
+    "bankCode": "62",
+    "type": "MASTERCARD",
+    "subType": "PLATINUM",
+    "virtual": false,
+    "prepaid": false
+  },
+  "521825": {
+    "bank": "T. GARANTİ BANKASI A.Ş.",
+    "bankCode": "62",
+    "type": "MASTERCARD",
+    "subType": "PLATINUM",
+    "virtual": false,
+    "prepaid": false
+  },
+  "521827": {
+    "bank": "ŞEKERBANK T.A.Ş.",
+    "bankCode": "59",
+    "type": "MASTERCARD",
+    "subType": "PLATINUM",
+    "virtual": false,
+    "prepaid": false
+  },
+  "521832": {
+    "bank": "T. GARANTİ BANKASI A.Ş.",
+    "bankCode": "62",
+    "type": "MASTERCARD",
+    "subType": "PLATINUM",
+    "virtual": false,
+    "prepaid": false
+  },
+  "521836": {
+    "bank": "FİNANS BANK A.Ş.",
+    "bankCode": "111",
+    "type": "MASTERCARD",
+    "subType": "PLATINUM",
+    "virtual": false,
+    "prepaid": false
+  },
+  "521848": {
+    "bank": "TÜRKİYE FİNANS KATILIM BANKASI A.Ş.",
+    "bankCode": "206",
+    "type": "MASTERCARD",
+    "subType": "PLATINUM",
+    "virtual": false,
+    "prepaid": false
+  },
+  "522054": {
+    "bank": "HSBC BANK A.Ş.",
+    "bankCode": "123",
+    "type": "MASTERCARD",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "522204": {
+    "bank": "T. GARANTİ BANKASI A.Ş.",
+    "bankCode": "62",
+    "type": "MASTERCARD",
+    "subType": "GOLD",
+    "virtual": false,
+    "prepaid": false
+  },
+  "522240": {
+    "bank": "ANADOLUBANK A.Ş.",
+    "bankCode": "135",
+    "type": "MASTERCARD",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "522241": {
+    "bank": "ANADOLUBANK A.Ş.",
+    "bankCode": "135",
+    "type": "MASTERCARD",
+    "subType": "GOLD",
+    "virtual": false,
+    "prepaid": false
+  },
+  "524346": {
+    "bank": "TÜRK EKONOMİ BANKASI A.Ş.",
+    "bankCode": "32",
+    "type": "MASTERCARD",
+    "subType": "PLATINUM",
+    "virtual": false,
+    "prepaid": false
+  },
+  "524347": {
+    "bank": "AKBANK T.A.Ş.",
+    "bankCode": "46",
+    "type": "MASTERCARD",
+    "subType": "PLATINUM",
+    "virtual": false,
+    "prepaid": false
+  },
+  "524384": {
+    "bank": "ASYA KATILIM BANKASI A.Ş.",
+    "bankCode": "208",
+    "type": "MASTERCARD",
+    "subType": "PLATINUM",
+    "virtual": false,
+    "prepaid": false
+  },
+  "524839": {
+    "bank": "TÜRK EKONOMİ BANKASI A.Ş.",
+    "bankCode": "32",
+    "type": "MASTERCARD",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "524840": {
+    "bank": "TÜRK EKONOMİ BANKASI A.Ş.",
+    "bankCode": "32",
+    "type": "MASTERCARD",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "525312": {
+    "bank": "KUVEYT TÜRK KATILIM BANKASI A.Ş.",
+    "bankCode": "205",
+    "type": "MASTERCARD",
+    "subType": "MIXED PRODUCT",
+    "virtual": false,
+    "prepaid": false
+  },
+  "525314": {
+    "bank": "FORTIS BANK A.Ş.",
+    "bankCode": "71",
+    "type": "MASTERCARD",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "525404": {
+    "bank": "ŞEKERBANK T.A.Ş.",
+    "bankCode": "59",
+    "type": "MASTERCARD",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "525413": {
+    "bank": "HSBC BANK A.Ş.",
+    "bankCode": "123",
+    "type": "MASTERCARD",
+    "subType": "GOLD",
+    "virtual": false,
+    "prepaid": false
+  },
+  "525795": {
+    "bank": "HSBC BANK A.Ş.",
+    "bankCode": "123",
+    "type": "MASTERCARD",
+    "subType": "GOLD",
+    "virtual": false,
+    "prepaid": false
+  },
+  "527585": {
+    "bank": "ASYA KATILIM BANKASI A.Ş.",
+    "bankCode": "208",
+    "type": "MASTERCARD",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "528920": {
+    "bank": "TÜRK EKONOMİ BANKASI A.Ş.",
+    "bankCode": "32",
+    "type": "MASTERCARD",
+    "subType": "PLATINUM",
+    "virtual": false,
+    "prepaid": false
+  },
+  "528939": {
+    "bank": "T. GARANTİ BANKASI A.Ş.",
+    "bankCode": "62",
+    "type": "MASTERCARD",
+    "subType": "PLATINUM",
+    "virtual": false,
+    "prepaid": false
+  },
+  "528956": {
+    "bank": "T. GARANTİ BANKASI A.Ş.",
+    "bankCode": "62",
+    "type": "MASTERCARD",
+    "subType": "PLATINUM",
+    "virtual": false,
+    "prepaid": false
+  },
+  "529462": {
+    "bank": "ASYA KATILIM BANKASI A.Ş.",
+    "bankCode": "208",
+    "type": "MASTERCARD",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "529572": {
+    "bank": "FİNANS BANK A.Ş.",
+    "bankCode": "111",
+    "type": "MASTERCARD",
+    "subType": "PLATINUM",
+    "virtual": false,
+    "prepaid": false
+  },
+  "529939": {
+    "bank": "TURKISH BANK A.Ş.",
+    "bankCode": "96",
+    "type": "MASTERCARD",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "530853": {
+    "bank": "TÜRK EKONOMİ BANKASI A.Ş.",
+    "bankCode": "32",
+    "type": "MASTERCARD",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "530866": {
+    "bank": "ŞEKERBANK T.A.Ş.",
+    "bankCode": "59",
+    "type": "MASTERCARD",
+    "subType": "GOLD",
+    "virtual": false,
+    "prepaid": false
+  },
+  "531157": {
+    "bank": "FİNANS BANK A.Ş.",
+    "bankCode": "111",
+    "type": "MASTERCARD",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "531334": {
+    "bank": "ASYA KATILIM BANKASI A.Ş.",
+    "bankCode": "208",
+    "type": "MASTERCARD",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "532443": {
+    "bank": "ING BANK A.Ş.",
+    "bankCode": "99",
+    "type": "MASTERCARD",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "533169": {
+    "bank": "T. GARANTİ BANKASI A.Ş.",
+    "bankCode": "62",
+    "type": "MASTERCARD",
+    "subType": "BUSINESS",
+    "virtual": false,
+    "prepaid": false
+  },
+  "534261": {
+    "bank": "T. GARANTİ BANKASI A.Ş.",
+    "bankCode": "62",
+    "type": "MASTERCARD",
+    "subType": "WORLD",
+    "virtual": false,
+    "prepaid": false
+  },
+  "534264": {
+    "bank": "ALBARAKA TÜRK KATILIM BANKASI A.Ş.",
+    "bankCode": "203",
+    "type": "MASTERCARD",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "534913": {
+    "bank": "MILLENNIUM BANK A.Ş.",
+    "bankCode": "103",
+    "type": "MASTERCARD",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "537719": {
+    "bank": "TÜRKİYE FİNANS KATILIM BANKASI A.Ş.",
+    "bankCode": "206",
+    "type": "MASTERCARD",
+    "subType": "GOLD",
+    "virtual": false,
+    "prepaid": false
+  },
+  "539703": {
+    "bank": "ŞEKERBANK T.A.Ş.",
+    "bankCode": "59",
+    "type": "MASTERCARD",
+    "subType": "GOLD",
+    "virtual": false,
+    "prepaid": false
+  },
+  "540024": {
+    "bank": "ING BANK A.Ş.",
+    "bankCode": "99",
+    "type": "MASTERCARD",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "540025": {
+    "bank": "ING BANK A.Ş.",
+    "bankCode": "99",
+    "type": "MASTERCARD",
+    "subType": "BUSINESS",
+    "virtual": false,
+    "prepaid": false
+  },
+  "540036": {
+    "bank": "T. GARANTİ BANKASI A.Ş.",
+    "bankCode": "62",
+    "type": "MASTERCARD",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "540037": {
+    "bank": "T. GARANTİ BANKASI A.Ş.",
+    "bankCode": "62",
+    "type": "MASTERCARD",
+    "subType": "BUSINESS",
+    "virtual": false,
+    "prepaid": false
+  },
+  "540045": {
+    "bank": "T. VAKIFLAR BANKASI T.A.O.",
+    "bankCode": "15",
+    "type": "MASTERCARD",
+    "subType": "GOLD",
+    "virtual": false,
+    "prepaid": false
+  },
+  "540046": {
+    "bank": "T. VAKIFLAR BANKASI T.A.O.",
+    "bankCode": "15",
+    "type": "MASTERCARD",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "540061": {
+    "bank": "YAPI ve KREDİ BANKASI A.Ş.",
+    "bankCode": "67",
+    "type": "MASTERCARD",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "540062": {
+    "bank": "YAPI ve KREDİ BANKASI A.Ş.",
+    "bankCode": "67",
+    "type": "MASTERCARD",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "540063": {
+    "bank": "YAPI ve KREDİ BANKASI A.Ş.",
+    "bankCode": "67",
+    "type": "MASTERCARD",
+    "subType": "GOLD",
+    "virtual": false,
+    "prepaid": false
+  },
+  "540122": {
+    "bank": "YAPI ve KREDİ BANKASI A.Ş.",
+    "bankCode": "67",
+    "type": "MASTERCARD",
+    "subType": " CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "540129": {
+    "bank": "YAPI ve KREDİ BANKASI A.Ş.",
+    "bankCode": "67",
+    "type": "MASTERCARD",
+    "subType": " GOLD",
+    "virtual": false,
+    "prepaid": false
+  },
+  "540130": {
+    "bank": "T.C. ZİRAAT BANKASI A.Ş.",
+    "bankCode": "10",
+    "type": "MASTERCARD",
+    "subType": " CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "540134": {
+    "bank": "T.C. ZİRAAT BANKASI A.Ş.",
+    "bankCode": "10",
+    "type": "MASTERCARD",
+    "subType": " GOLD",
+    "virtual": false,
+    "prepaid": false
+  },
+  "540226": {
+    "bank": "T. GARANTİ BANKASI A.Ş.",
+    "bankCode": "62",
+    "type": "MASTERCARD",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "540227": {
+    "bank": "T. GARANTİ BANKASI A.Ş.",
+    "bankCode": "62",
+    "type": "MASTERCARD",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "540435": {
+    "bank": "T. HALK BANKASI A.Ş.",
+    "bankCode": "12",
+    "type": "MASTERCARD",
+    "subType": "GOLD",
+    "virtual": false,
+    "prepaid": false
+  },
+  "540643": {
+    "bank": "HSBC BANK A.Ş.",
+    "bankCode": "123",
+    "type": "MASTERCARD",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "540667": {
+    "bank": "T. İŞ BANKASI A.Ş.",
+    "bankCode": "64",
+    "type": "MASTERCARD",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "540668": {
+    "bank": "T. İŞ BANKASI A.Ş.",
+    "bankCode": "64",
+    "type": "MASTERCARD",
+    "subType": "GOLD",
+    "virtual": false,
+    "prepaid": false
+  },
+  "540669": {
+    "bank": "T. GARANTİ BANKASI A.Ş.",
+    "bankCode": "62",
+    "type": "MASTERCARD",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "540709": {
+    "bank": "T. GARANTİ BANKASI A.Ş.",
+    "bankCode": "62",
+    "type": "MASTERCARD",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "541001": {
+    "bank": "T.C. ZİRAAT BANKASI A.Ş.",
+    "bankCode": "10",
+    "type": "MASTERCARD",
+    "subType": " CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "541033": {
+    "bank": "T.C. ZİRAAT BANKASI A.Ş.",
+    "bankCode": "10",
+    "type": "MASTERCARD",
+    "subType": " GOLD",
+    "virtual": false,
+    "prepaid": false
+  },
+  "541865": {
+    "bank": "T. GARANTİ BANKASI A.Ş.",
+    "bankCode": "62",
+    "type": "MASTERCARD",
+    "subType": "GOLD",
+    "virtual": false,
+    "prepaid": false
+  },
+  "542029": {
+    "bank": "ING BANK A.Ş.",
+    "bankCode": "99",
+    "type": "MASTERCARD",
+    "subType": "GOLD",
+    "virtual": false,
+    "prepaid": false
+  },
+  "542030": {
+    "bank": "T. GARANTİ BANKASI A.Ş.",
+    "bankCode": "62",
+    "type": "MASTERCARD",
+    "subType": "GOLD",
+    "virtual": false,
+    "prepaid": false
+  },
+  "542110": {
+    "bank": "AKBANK T.A.Ş.",
+    "bankCode": "46",
+    "type": "MASTERCARD",
+    "subType": "Acquiring",
+    "virtual": false,
+    "prepaid": false
+  },
+  "542117": {
+    "bank": "YAPI ve KREDİ BANKASI A.Ş.",
+    "bankCode": "67",
+    "type": "MASTERCARD",
+    "subType": " CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "542119": {
+    "bank": "T. VAKIFLAR BANKASI T.A.O.",
+    "bankCode": "15",
+    "type": "MASTERCARD",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "542254": {
+    "bank": "HSBC BANK A.Ş.",
+    "bankCode": "123",
+    "type": "MASTERCARD",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "542259": {
+    "bank": "FORTIS BANK A.Ş.",
+    "bankCode": "71",
+    "type": "MASTERCARD",
+    "subType": "TITANIUM",
+    "virtual": false,
+    "prepaid": false
+  },
+  "542374": {
+    "bank": "T.C. ZİRAAT BANKASI A.Ş.",
+    "bankCode": "10",
+    "type": "MASTERCARD",
+    "subType": " CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "542605": {
+    "bank": "ING BANK A.Ş.",
+    "bankCode": "99",
+    "type": "MASTERCARD",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "542798": {
+    "bank": "T. VAKIFLAR BANKASI T.A.O.",
+    "bankCode": "15",
+    "type": "MASTERCARD",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "542804": {
+    "bank": "T. VAKIFLAR BANKASI T.A.O.",
+    "bankCode": "15",
+    "type": "MASTERCARD",
+    "subType": "GOLD",
+    "virtual": false,
+    "prepaid": false
+  },
+  "542965": {
+    "bank": "ING BANK A.Ş.",
+    "bankCode": "99",
+    "type": "MASTERCARD",
+    "subType": "GOLD",
+    "virtual": false,
+    "prepaid": false
+  },
+  "542967": {
+    "bank": "ING BANK A.Ş.",
+    "bankCode": "99",
+    "type": "MASTERCARD",
+    "subType": "GOLD",
+    "virtual": false,
+    "prepaid": false
+  },
+  "543081": {
+    "bank": "T. HALK BANKASI A.Ş.",
+    "bankCode": "12",
+    "type": "MASTERCARD",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "543358": {
+    "bank": "DENİZBANK A.Ş.",
+    "bankCode": "134",
+    "type": "MASTERCARD",
+    "subType": " CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "543400": {
+    "bank": "DENİZBANK A.Ş.",
+    "bankCode": "134",
+    "type": "MASTERCARD",
+    "subType": "GOLD",
+    "virtual": false,
+    "prepaid": false
+  },
+  "543427": {
+    "bank": "DENİZBANK A.Ş.",
+    "bankCode": "134",
+    "type": "MASTERCARD",
+    "subType": " CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "543624": {
+    "bank": "MILLENNIUM BANK A.Ş.",
+    "bankCode": "103",
+    "type": "MASTERCARD",
+    "subType": "GOLD",
+    "virtual": false,
+    "prepaid": false
+  },
+  "543771": {
+    "bank": "T. İŞ BANKASI A.Ş.",
+    "bankCode": "64",
+    "type": "MASTERCARD",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "543943": {
+    "bank": "EUROBANK TEKFEN A.Ş.",
+    "bankCode": "125",
+    "type": "MASTERCARD",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "543944": {
+    "bank": "EUROBANK TEKFEN A.Ş.",
+    "bankCode": "125",
+    "type": "MASTERCARD",
+    "subType": "GOLD",
+    "virtual": false,
+    "prepaid": false
+  },
+  "544078": {
+    "bank": "T. GARANTİ BANKASI A.Ş.",
+    "bankCode": "62",
+    "type": "MASTERCARD",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "544127": {
+    "bank": "CITIBANK A.Ş.",
+    "bankCode": "92",
+    "type": "MASTERCARD",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "544445": {
+    "bank": "CITIBANK A.Ş.",
+    "bankCode": "92",
+    "type": "MASTERCARD",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "544460": {
+    "bank": "CITIBANK A.Ş.",
+    "bankCode": "92",
+    "type": "MASTERCARD",
+    "subType": "GOLD",
+    "virtual": false,
+    "prepaid": false
+  },
+  "545102": {
+    "bank": "T. GARANTİ BANKASI A.Ş.",
+    "bankCode": "62",
+    "type": "MASTERCARD",
+    "subType": "SIGNIA",
+    "virtual": false,
+    "prepaid": false
+  },
+  "545103": {
+    "bank": "YAPI ve KREDİ BANKASI A.Ş.",
+    "bankCode": "67",
+    "type": "MASTERCARD",
+    "subType": " SIGNIA",
+    "virtual": false,
+    "prepaid": false
+  },
+  "545120": {
+    "bank": "FİNANS BANK A.Ş.",
+    "bankCode": "111",
+    "type": "MASTERCARD",
+    "subType": "SIGNIA",
+    "virtual": false,
+    "prepaid": false
+  },
+  "545124": {
+    "bank": "TÜRK EKONOMİ BANKASI A.Ş.",
+    "bankCode": "32",
+    "type": "MASTERCARD",
+    "subType": "SIGNIA",
+    "virtual": false,
+    "prepaid": false
+  },
+  "545148": {
+    "bank": "FORTIS BANK A.Ş.",
+    "bankCode": "71",
+    "type": "MASTERCARD",
+    "subType": "SIGNIA",
+    "virtual": false,
+    "prepaid": false
+  },
+  "545183": {
+    "bank": "HSBC BANK A.Ş.",
+    "bankCode": "123",
+    "type": "MASTERCARD",
+    "subType": "SIGNIA",
+    "virtual": false,
+    "prepaid": false
+  },
+  "545616": {
+    "bank": "FİNANS BANK A.Ş.",
+    "bankCode": "111",
+    "type": "MASTERCARD",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "545847": {
+    "bank": "FİNANS BANK A.Ş.",
+    "bankCode": "111",
+    "type": "MASTERCARD",
+    "subType": "GOLD",
+    "virtual": false,
+    "prepaid": false
+  },
+  "545863": {
+    "bank": "EUROBANK TEKFEN A.Ş.",
+    "bankCode": "125",
+    "type": "MASTERCARD",
+    "subType": "Acquiring",
+    "virtual": false,
+    "prepaid": false
+  },
+  "546764": {
+    "bank": "DENİZBANK A.Ş.",
+    "bankCode": "134",
+    "type": "MASTERCARD",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "547234": {
+    "bank": "ALBARAKA TÜRK KATILIM BANKASI A.Ş.",
+    "bankCode": "203",
+    "type": "MASTERCARD",
+    "subType": "BUSINESS",
+    "virtual": false,
+    "prepaid": false
+  },
+  "547244": {
+    "bank": "T. VAKIFLAR BANKASI T.A.O.",
+    "bankCode": "15",
+    "type": "MASTERCARD",
+    "subType": "BUSINESS",
+    "virtual": false,
+    "prepaid": false
+  },
+  "547287": {
+    "bank": "T.C. ZİRAAT BANKASI A.Ş.",
+    "bankCode": "10",
+    "type": "MASTERCARD",
+    "subType": " BUSINESS",
+    "virtual": false,
+    "prepaid": false
+  },
+  "547302": {
+    "bank": "T. GARANTİ BANKASI A.Ş.",
+    "bankCode": "62",
+    "type": "MASTERCARD",
+    "subType": "BUSINESS",
+    "virtual": false,
+    "prepaid": false
+  },
+  "547311": {
+    "bank": "ŞEKERBANK T.A.Ş.",
+    "bankCode": "59",
+    "type": "MASTERCARD",
+    "subType": "BUSINESS",
+    "virtual": false,
+    "prepaid": false
+  },
+  "547564": {
+    "bank": "KUVEYT TÜRK KATILIM BANKASI A.Ş.",
+    "bankCode": "205",
+    "type": "MASTERCARD",
+    "subType": "BUSINESS",
+    "virtual": false,
+    "prepaid": false
+  },
+  "547567": {
+    "bank": "FİNANS BANK A.Ş.",
+    "bankCode": "111",
+    "type": "MASTERCARD",
+    "subType": "BUSINESS",
+    "virtual": false,
+    "prepaid": false
+  },
+  "547680": {
+    "bank": "EUROBANK TEKFEN A.Ş.",
+    "bankCode": "125",
+    "type": "MASTERCARD",
+    "subType": "BUSINESS",
+    "virtual": false,
+    "prepaid": false
+  },
+  "547712": {
+    "bank": "CITIBANK A.Ş.",
+    "bankCode": "92",
+    "type": "MASTERCARD",
+    "subType": "BUSINESS",
+    "virtual": false,
+    "prepaid": false
+  },
+  "547765": {
+    "bank": "ING BANK A.Ş.",
+    "bankCode": "99",
+    "type": "MASTERCARD",
+    "subType": "BUSINESS",
+    "virtual": false,
+    "prepaid": false
+  },
+  "547799": {
+    "bank": "ASYA KATILIM BANKASI A.Ş.",
+    "bankCode": "208",
+    "type": "MASTERCARD",
+    "subType": "BUSINESS",
+    "virtual": false,
+    "prepaid": false
+  },
+  "547800": {
+    "bank": "FİNANS BANK A.Ş.",
+    "bankCode": "111",
+    "type": "MASTERCARD",
+    "subType": "BUSINESS",
+    "virtual": false,
+    "prepaid": false
+  },
+  "547985": {
+    "bank": "FORTIS BANK A.Ş.",
+    "bankCode": "71",
+    "type": "MASTERCARD",
+    "subType": "BUSINESS",
+    "virtual": false,
+    "prepaid": false
+  },
+  "548232": {
+    "bank": "ALBARAKA TÜRK KATILIM BANKASI A.Ş.",
+    "bankCode": "203",
+    "type": "MASTERCARD",
+    "subType": "GOLD",
+    "virtual": false,
+    "prepaid": false
+  },
+  "548375": {
+    "bank": "TURKLAND BANK A.Ş.",
+    "bankCode": "108",
+    "type": "MASTERCARD",
+    "subType": "PLATINUM",
+    "virtual": false,
+    "prepaid": false
+  },
+  "548819": {
+    "bank": "ING BANK A.Ş.",
+    "bankCode": "99",
+    "type": "MASTERCARD",
+    "subType": "GOLD",
+    "virtual": false,
+    "prepaid": false
+  },
+  "549208": {
+    "bank": "ŞEKERBANK T.A.Ş.",
+    "bankCode": "59",
+    "type": "MASTERCARD",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "549220": {
+    "bank": "CITIBANK A.Ş.",
+    "bankCode": "92",
+    "type": "MASTERCARD",
+    "subType": "GOLD",
+    "virtual": false,
+    "prepaid": false
+  },
+  "549294": {
+    "bank": "TÜRKİYE FİNANS KATILIM BANKASI A.Ş.",
+    "bankCode": "206",
+    "type": "MASTERCARD",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "549394": {
+    "bank": "ŞEKERBANK T.A.Ş.",
+    "bankCode": "59",
+    "type": "MASTERCARD",
+    "subType": "Acquiring",
+    "virtual": false,
+    "prepaid": false
+  },
+  "549998": {
+    "bank": "FORTIS BANK A.Ş.",
+    "bankCode": "71",
+    "type": "MASTERCARD",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "550449": {
+    "bank": "FORTIS BANK A.Ş.",
+    "bankCode": "71",
+    "type": "MASTERCARD",
+    "subType": "GOLD",
+    "virtual": false,
+    "prepaid": false
+  },
+  "550472": {
+    "bank": "HSBC BANK A.Ş.",
+    "bankCode": "123",
+    "type": "MASTERCARD",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "550473": {
+    "bank": "HSBC BANK A.Ş.",
+    "bankCode": "123",
+    "type": "MASTERCARD",
+    "subType": "GOLD",
+    "virtual": false,
+    "prepaid": false
+  },
+  "552095": {
+    "bank": "T. GARANTİ BANKASI A.Ş.",
+    "bankCode": "62",
+    "type": "MASTERCARD",
+    "subType": "PLATINUM",
+    "virtual": false,
+    "prepaid": false
+  },
+  "552096": {
+    "bank": "T. İŞ BANKASI A.Ş.",
+    "bankCode": "64",
+    "type": "MASTERCARD",
+    "subType": "PLATINUM",
+    "virtual": false,
+    "prepaid": false
+  },
+  "552098": {
+    "bank": "TURKISH BANK A.Ş.",
+    "bankCode": "96",
+    "type": "MASTERCARD",
+    "subType": "PLATINUM",
+    "virtual": false,
+    "prepaid": false
+  },
+  "552101": {
+    "bank": "T. VAKIFLAR BANKASI T.A.O.",
+    "bankCode": "15",
+    "type": "MASTERCARD",
+    "subType": "PLATINUM",
+    "virtual": false,
+    "prepaid": false
+  },
+  "552143": {
+    "bank": "HSBC BANK A.Ş.",
+    "bankCode": "123",
+    "type": "MASTERCARD",
+    "subType": "PLATINUM",
+    "virtual": false,
+    "prepaid": false
+  },
+  "552207": {
+    "bank": "FORTIS BANK A.Ş.",
+    "bankCode": "71",
+    "type": "MASTERCARD",
+    "subType": "PLATINUM",
+    "virtual": false,
+    "prepaid": false
+  },
+  "552529": {
+    "bank": "ASYA KATILIM BANKASI A.Ş.",
+    "bankCode": "208",
+    "type": "MASTERCARD",
+    "subType": "BUSINESS",
+    "virtual": false,
+    "prepaid": false
+  },
+  "552608": {
+    "bank": "AKBANK T.A.Ş.",
+    "bankCode": "46",
+    "type": "MASTERCARD",
+    "subType": "BUSINESS",
+    "virtual": false,
+    "prepaid": false
+  },
+  "552609": {
+    "bank": "AKBANK T.A.Ş.",
+    "bankCode": "46",
+    "type": "MASTERCARD",
+    "subType": "BUSINESS",
+    "virtual": false,
+    "prepaid": false
+  },
+  "552645": {
+    "bank": "YAPI ve KREDİ BANKASI A.Ş.",
+    "bankCode": "67",
+    "type": "MASTERCARD",
+    "subType": "BUSINESS",
+    "virtual": false,
+    "prepaid": false
+  },
+  "552659": {
+    "bank": "YAPI ve KREDİ BANKASI A.Ş.",
+    "bankCode": "67",
+    "type": "MASTERCARD",
+    "subType": "BUSINESS",
+    "virtual": false,
+    "prepaid": false
+  },
+  "552879": {
+    "bank": "T. HALK BANKASI A.Ş.",
+    "bankCode": "12",
+    "type": "MASTERCARD",
+    "subType": "BUSINESS",
+    "virtual": false,
+    "prepaid": false
+  },
+  "553056": {
+    "bank": "AKBANK T.A.Ş.",
+    "bankCode": "46",
+    "type": "MASTERCARD",
+    "subType": "BUSINESS",
+    "virtual": false,
+    "prepaid": false
+  },
+  "553058": {
+    "bank": "T. İŞ BANKASI A.Ş.",
+    "bankCode": "64",
+    "type": "MASTERCARD",
+    "subType": "BUSINESS",
+    "virtual": false,
+    "prepaid": false
+  },
+  "553090": {
+    "bank": "TÜRK EKONOMİ BANKASI A.Ş.",
+    "bankCode": "32",
+    "type": "MASTERCARD",
+    "subType": "BUSINESS",
+    "virtual": false,
+    "prepaid": false
+  },
+  "553130": {
+    "bank": "T. GARANTİ BANKASI A.Ş.",
+    "bankCode": "62",
+    "type": "MASTERCARD",
+    "subType": "BUSINESS",
+    "virtual": false,
+    "prepaid": false
+  },
+  "554297": {
+    "bank": "ING BANK A.Ş.",
+    "bankCode": "99",
+    "type": "MASTERCARD",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "554301": {
+    "bank": "ANADOLUBANK A.Ş.",
+    "bankCode": "135",
+    "type": "MASTERCARD",
+    "subType": "PLATINUM",
+    "virtual": false,
+    "prepaid": false
+  },
+  "554422": {
+    "bank": "YAPI ve KREDİ BANKASI A.Ş.",
+    "bankCode": "67",
+    "type": "MASTERCARD",
+    "subType": "Acquiring",
+    "virtual": false,
+    "prepaid": false
+  },
+  "554483": {
+    "bank": "DENİZBANK A.Ş.",
+    "bankCode": "134",
+    "type": "MASTERCARD",
+    "subType": "GOLD",
+    "virtual": false,
+    "prepaid": false
+  },
+  "554570": {
+    "bank": "ING BANK A.Ş.",
+    "bankCode": "99",
+    "type": "MASTERCARD",
+    "subType": "PLATINUM",
+    "virtual": false,
+    "prepaid": false
+  },
+  "554796": {
+    "bank": "T. GARANTİ BANKASI A.Ş.",
+    "bankCode": "62",
+    "type": "MASTERCARD",
+    "subType": "GOLD",
+    "virtual": false,
+    "prepaid": false
+  },
+  "554960": {
+    "bank": "T. GARANTİ BANKASI A.Ş.",
+    "bankCode": "62",
+    "type": "MASTERCARD",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "556030": {
+    "bank": "HSBC BANK A.Ş.",
+    "bankCode": "123",
+    "type": "MASTERCARD",
+    "subType": "BUSINESS",
+    "virtual": false,
+    "prepaid": false
+  },
+  "556031": {
+    "bank": "HSBC BANK A.Ş.",
+    "bankCode": "123",
+    "type": "MASTERCARD",
+    "subType": "BUSINESS",
+    "virtual": false,
+    "prepaid": false
+  },
+  "556033": {
+    "bank": "HSBC BANK A.Ş.",
+    "bankCode": "123",
+    "type": "MASTERCARD",
+    "subType": "BUSINESS",
+    "virtual": false,
+    "prepaid": false
+  },
+  "556034": {
+    "bank": "HSBC BANK A.Ş.",
+    "bankCode": "123",
+    "type": "MASTERCARD",
+    "subType": "BUSINESS",
+    "virtual": false,
+    "prepaid": false
+  },
+  "556665": {
+    "bank": "HSBC BANK A.Ş.",
+    "bankCode": "123",
+    "type": "MASTERCARD",
+    "subType": "BUSINESS",
+    "virtual": false,
+    "prepaid": false
+  },
+  "557023": {
+    "bank": "T. GARANTİ BANKASI A.Ş.",
+    "bankCode": "62",
+    "type": "MASTERCARD",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "557113": {
+    "bank": "AKBANK T.A.Ş.",
+    "bankCode": "46",
+    "type": "MASTERCARD",
+    "subType": "CLASSIC",
+    "virtual": false,
+    "prepaid": false
+  },
+  "557829": {
+    "bank": "AKBANK T.A.Ş.",
+    "bankCode": "46",
+    "type": "MASTERCARD",
+    "subType": "GOLD",
+    "virtual": false,
+    "prepaid": false
+  },
+  "557945": {
+    "bank": "T. GARANTİ BANKASI A.Ş.",
+    "bankCode": "62",
+    "type": "MASTERCARD",
+    "subType": "CLASSIC ",
+    "virtual": false,
+    "prepaid": false
+  },
+  "558514": {
+    "bank": "DENİZBANK A.Ş.",
+    "bankCode": "134",
+    "type": "MASTERCARD",
+    "subType": "BUSINESS",
+    "virtual": false,
+    "prepaid": false
+  },
+  "558593": {
+    "bank": "ANADOLUBANK A.Ş.",
+    "bankCode": "135",
+    "type": "MASTERCARD",
+    "subType": "BUSINESS",
+    "virtual": false,
+    "prepaid": false
+  },
+  "558699": {
+    "bank": "T. GARANTİ BANKASI A.Ş.",
+    "bankCode": "62",
+    "type": "MASTERCARD",
+    "subType": "BUSINESS",
+    "virtual": false,
+    "prepaid": false
+  }
+}

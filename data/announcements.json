@@ -1,0 +1,22 @@
+[
+  {
+    "title": "site bakimda",
+    "content": "Site 1 gunluk bakima alinmisdir",
+    "isActive": true,
+    "authorId": "d86ab62e-23e5-4370-bbeb-47ef6dbc74ac",
+    "authorName": "socread",
+    "id": "1782142736271",
+    "createdAt": "2026-06-22T15:38:56.271Z",
+    "updatedAt": "2026-06-22T15:38:56.271Z"
+  },
+  {
+    "title": "hi",
+    "content": "hi",
+    "isActive": true,
+    "authorId": "d86ab62e-23e5-4370-bbeb-47ef6dbc74ac",
+    "authorName": "socread",
+    "id": "1782142613944",
+    "createdAt": "2026-06-22T15:36:53.944Z",
+    "updatedAt": "2026-06-22T15:36:53.944Z"
+  }
+]
